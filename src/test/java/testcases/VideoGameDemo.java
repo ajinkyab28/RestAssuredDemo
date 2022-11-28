@@ -100,8 +100,9 @@ public class VideoGameDemo
 			.log().body()
 			.extract().response();
 		
-		String response = res.asString();
 		
+		
+		String response = res.asString();		
 		Assert.assertEquals(response.contains("Record Deleted Successfully"), true);
 	}
 }
