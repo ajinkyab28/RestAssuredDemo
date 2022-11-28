@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-28T21:32:21 IST" name="Default suite" finished-at="2022-11-28T21:32:26 IST" duration-ms="4617">
+    <groups>
+    </groups>
+    <test started-at="2022-11-28T21:32:21 IST" name="Default test" finished-at="2022-11-28T21:32:26 IST" duration-ms="4617">
+      <class name="testcases.VideoGameDemo">
+        <test-method signature="GetAllVideoGames()[pri:1, instance:testcases.VideoGameDemo@56cdfb3b]" started-at="2022-11-28T21:32:21 IST" name="GetAllVideoGames" finished-at="2022-11-28T21:32:24 IST" duration-ms="2659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllVideoGames -->
+        <test-method signature="PostVideoGame()[pri:2, instance:testcases.VideoGameDemo@56cdfb3b]" started-at="2022-11-28T21:32:24 IST" name="PostVideoGame" finished-at="2022-11-28T21:32:24 IST" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostVideoGame -->
+        <test-method signature="PutVideoGame()[pri:3, instance:testcases.VideoGameDemo@56cdfb3b]" started-at="2022-11-28T21:32:24 IST" name="PutVideoGame" finished-at="2022-11-28T21:32:26 IST" duration-ms="1174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutVideoGame -->
+        <test-method signature="getVideoGame()[pri:4, instance:testcases.VideoGameDemo@56cdfb3b]" started-at="2022-11-28T21:32:26 IST" name="getVideoGame" finished-at="2022-11-28T21:32:26 IST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getVideoGame -->
+        <test-method signature="deleteVideoGame()[pri:5, instance:testcases.VideoGameDemo@56cdfb3b]" started-at="2022-11-28T21:32:26 IST" name="deleteVideoGame" finished-at="2022-11-28T21:32:26 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteVideoGame -->
+      </class> <!-- testcases.VideoGameDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
